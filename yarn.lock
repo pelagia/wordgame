@@ -2179,6 +2179,10 @@ duplexer@^0.1.1:
   version "0.1.1"
   resolved "http://artifactory-ehv.ta.philips.com:8082/artifactory/api/npm/dl-common-npm/duplexer/-/duplexer-0.1.1.tgz#ace6ff808c1ce66b57d1ebf97977acb02334cfc1"
 
+easy-grid@0.0.5:
+  version "0.0.5"
+  resolved "http://artifactory-ehv.ta.philips.com:8082/artifactory/api/npm/dl-common-npm/easy-grid/-/easy-grid-0.0.5.tgz#299f7e94f396065148bc7d268c5e738faf5cbcd0"
+
 ecc-jsbn@~0.1.1:
   version "0.1.1"
   resolved "http://artifactory-ehv.ta.philips.com:8082/artifactory/api/npm/dl-common-npm/ecc-jsbn/-/ecc-jsbn-0.1.1.tgz#0fc73a9ed5f0d53c38193398523ef7e543777505"
