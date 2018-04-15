@@ -1,0 +1,104 @@
+body {
+    margin: 40px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    background-color: #fff;
+    color: #444;
+}
+
+.box {
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+}
+
+.box:nth-child(113)  {
+    background-color: red;
+}
+
+.box:nth-child(1),
+ .box:nth-child(15),
+ .box:nth-child(21),
+ .box:nth-child(25),
+ .box:nth-child(49),
+ .box:nth-child(57),
+ .box:nth-child(77),
+ .box:nth-child(81),
+ .box:nth-child(85),
+ .box:nth-child(89),
+ .box:nth-child(137),
+ .box:nth-child(141),
+ .box:nth-child(145),
+ .box:nth-child(149),
+ .box:nth-child(169),
+ .box:nth-child(177),
+ .box:nth-child(201),
+ .box:nth-child(205),
+ .box:nth-child(211),
+ .box:nth-child(225)
+ {
+     background-color: royalblue;
+ }
+
+.box:nth-child(5),
+.box:nth-child(11),
+.box:nth-child(61),
+.box:nth-child(75),
+.box:nth-child(151),
+.box:nth-child(165),
+.box:nth-child(215),
+.box:nth-child(221)
+{
+    background-color: darkorange;
+}
+
+.box:nth-child(8),
+.box:nth-child(17),
+.box:nth-child(29),
+.box:nth-child(37),
+.box:nth-child(39),
+.box:nth-child(67),
+.box:nth-child(69),
+.box:nth-child(93),
+.box:nth-child(95),
+.box:nth-child(101),
+.box:nth-child(103),
+.box:nth-child(106),
+.box:nth-child(120),
+.box:nth-child(123),
+.box:nth-child(125),
+.box:nth-child(131),
+.box:nth-child(133),
+.box:nth-child(157),
+.box:nth-child(159),
+.box:nth-child(187),
+.box:nth-child(189),
+.box:nth-child(197),
+.box:nth-child(209),
+.box:nth-child(218)
+{
+    background-color: darkseagreen;
+}
+
+.box:nth-child(33),
+.box:nth-child(43),
+.box:nth-child(53),
+.box:nth-child(65),
+.box:nth-child(71),
+.box:nth-child(109),
+.box:nth-child(117),
+.box:nth-child(155),
+.box:nth-child(161),
+.box:nth-child(173),
+.box:nth-child(183),
+.box:nth-child(193)
+{
+    background-color: orchid;
+}
